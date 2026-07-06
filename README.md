@@ -25,9 +25,10 @@ Supervised NLP project classifying emotional distress in Reddit posts using post
 Exploratory analysis of global suicide trends by country, gender, age group, GDP, and Human Development Index.
 
 **Skills:** R, tidyverse, ggplot2, Quarto, regression modeling, public-health communication  
-**Repository:** Coming soon  
-**HTML Report:** Coming soon  
-**Presentation:** Coming soon  
+**Repository:** [global-suicide-trends](https://github.com/eekman0926/global-suicide-trends)  
+**Project Website:** [View GitHub Pages site](https://eekman0926.github.io/global-suicide-trends/)  
+**Rendered HTML Report:** [View report](https://eekman0926.github.io/global-suicide-trends/Report/Eric%20Ekman%20Final%20Project.html)  
+**Presentation Slides:** [View slides](https://github.com/eekman0926/global-suicide-trends/blob/main/Slides/Understanding%20Suicide%20Through%20Global%20Data%20(1985%E2%80%932016).pptx) 
 
 ## Additional Projects
 
