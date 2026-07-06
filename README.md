@@ -10,8 +10,9 @@ My interests include applied data science, public health analytics, mental healt
 Interactive R Shiny application exploring relationships between U.S. state migration patterns and economic indicators including housing costs, wages, unemployment, and tax rates.
 
 **Skills:** R, Shiny, tidyverse, ggplot2, mapping, data cleaning, exploratory modeling, Git/GitHub  
-**Repository:** Coming soon  
-**Live App:** Coming soon  
+**Repository:** [cost-of-living-migration-shiny](https://github.com/eekman0926/cost-of-living-migration-shiny)  
+**Rendered Vignette:** [View project vignette](https://eekman0926.github.io/cost-of-living-migration-shiny/vignette/vignette.html)  
+**GitHub Pages:** [View project site](https://eekman0926.github.io/cost-of-living-migration-shiny/)
 
 ### Detecting Emotional Distress in Reddit Posts Using NLP
 Supervised NLP project classifying emotional distress in Reddit posts using post-level manual labels and traditional machine learning models.
