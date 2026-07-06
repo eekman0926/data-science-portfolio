@@ -17,9 +17,13 @@ Interactive R Shiny application exploring relationships between U.S. state migra
 ### Detecting Emotional Distress in Reddit Posts Using NLP
 Supervised NLP project classifying emotional distress in Reddit posts using post-level manual labels and traditional machine learning models.
 
-**Skills:** Python, NLP, text preprocessing, TF-IDF, supervised classification, model evaluation, feature interpretation  
-**Repository:** Coming soon  
-**Report/Slides:** Coming soon
+**Skills:** Python, NLP, text preprocessing, TF-IDF, supervised classification, model evaluation, feature interpretation, manual labeling  
+**Repository:** [reddit-emotional-distress-nlp](https://github.com/eekman0926/reddit-emotional-distress-nlp)  
+**Project Website:** [View GitHub Pages site](https://eekman0926.github.io/reddit-emotional-distress-nlp/)  
+**Rendered HTML Report:** [View report](https://eekman0926.github.io/reddit-emotional-distress-nlp/report/nlp_project.html)  
+**Notebook:** [View Jupyter notebook](https://github.com/eekman0926/reddit-emotional-distress-nlp/blob/main/notebooks/nlp_project.ipynb)  
+**Final Report:** [View final report](https://github.com/eekman0926/reddit-emotional-distress-nlp/blob/main/report/final_report.pdf)  
+**Presentation Slides:** [View slides](https://github.com/eekman0926/reddit-emotional-distress-nlp/blob/main/presentation/presentation_slides.pptx)
 
 ### Understanding Suicide Through Global Data, 1985–2016
 Exploratory analysis of global suicide trends by country, gender, age group, GDP, and Human Development Index.
