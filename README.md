@@ -19,7 +19,7 @@ Supervised NLP project classifying emotional distress in Reddit posts using post
 
 **Skills:** Python, NLP, text preprocessing, TF-IDF, supervised classification, model evaluation, feature interpretation  
 **Repository:** Coming soon  
-**Report/Slides:** Coming soon  
+**Report/Slides:** Coming soon
 
 ### Understanding Suicide Through Global Data, 1985–2016
 Exploratory analysis of global suicide trends by country, gender, age group, GDP, and Human Development Index.
@@ -28,7 +28,7 @@ Exploratory analysis of global suicide trends by country, gender, age group, GDP
 **Repository:** [global-suicide-trends](https://github.com/eekman0926/global-suicide-trends)  
 **Project Website:** [View GitHub Pages site](https://eekman0926.github.io/global-suicide-trends/)  
 **Rendered HTML Report:** [View report](https://eekman0926.github.io/global-suicide-trends/Report/Eric%20Ekman%20Final%20Project.html)  
-**Presentation Slides:** [View slides](https://github.com/eekman0926/global-suicide-trends/blob/main/Slides/Understanding%20Suicide%20Through%20Global%20Data%20(1985%E2%80%932016).pptx) 
+**Presentation Slides:** [View slides](https://github.com/eekman0926/global-suicide-trends/blob/main/Slides/Understanding%20Suicide%20Through%20Global%20Data%20(1985%E2%80%932016).pptx)
 
 ## Additional Projects
 
